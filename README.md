@@ -2,6 +2,15 @@
 
 Este é um projeto Spring Boot desenvolvido para gerenciar **Pacientes** e seus **Registros Diários de Humor, Ansiedade e Sono**.
 
+## Integrantes:
+
+Djalma Moreira de Andrade Filho - RM: 555530
+
+Felipe Paes de Barros Muller Carioba - RM: 558447
+
+Jose Antonio Kretzer Rodriguez - RM: 555523
+
+## Funcionalidades:
 A API permite:
 
 - Criar pacientes  
@@ -16,7 +25,7 @@ O projeto utiliza **Spring Boot 4**, **JPA/Hibernate**, **H2 Database** e **Mave
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java 17  
 - Spring Boot 4  
@@ -28,9 +37,9 @@ O projeto utiliza **Spring Boot 4**, **JPA/Hibernate**, **H2 Database** e **Mave
 
 ---
 
-## 📦 Como rodar o projeto
+## Como rodar o projeto
 
-### 🔧 Pré-requisitos
+### Pré-requisitos
 - Java 17+
 - Maven instalado
 - IDE (VSCode, IntelliJ, Eclipse)
@@ -38,7 +47,7 @@ O projeto utiliza **Spring Boot 4**, **JPA/Hibernate**, **H2 Database** e **Mave
 
 ---
 
-## ▶️ Rodando a aplicação
+## Rodando a aplicação
 
 No terminal, execute:
 
